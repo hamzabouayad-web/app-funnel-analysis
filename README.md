@@ -10,6 +10,7 @@ A simulated but realistic dataset of 6,000 app users moving through a 5-step fun
 
 ## Key Findings
 
+![Funnel Dashboard](./funnel_dashboard.png)
 - **Biggest drop-off point:** the **Add to Cart → Purchase** step, where 37% of remaining users are lost — bigger than any other step in the funnel, including signup.
 - **Referral users convert 3.4x better than Organic Search users** (51% vs 15%) — meaning acquisition channel matters far more than raw traffic volume.
 - **iOS users convert at 42%**, compared to 26% on Android and under 19% on Web — a signal worth digging into for platform-specific UX issues.
